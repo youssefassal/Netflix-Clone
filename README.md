@@ -37,6 +37,7 @@ Deployed with **Vercel** 🚀
    ```bash
    npm install
 3. Add your Firebase config inside a .env file:
+   ```env
    VITE_FIREBASE_API_KEY=your_api_key
    VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
    VITE_FIREBASE_PROJECT_ID=your_project_id
@@ -44,6 +45,6 @@ Deployed with **Vercel** 🚀
    VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
    VITE_FIREBASE_APP_ID=your_app_id
 
-4. Run the project locally:
+5. Run the project locally:
    ```bash
    npm run dev
