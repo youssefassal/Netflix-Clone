@@ -48,3 +48,26 @@ Deployed with **Vercel** 🚀
 5. Run the project locally:
    ```bash
    npm run dev
+
+---
+
+## 📸 Screenshots
+<img width="1897" height="904" alt="Screenshot 2025-08-25 232323" src="https://github.com/user-attachments/assets/88170ee2-b645-4aaf-9596-47e9c58348a1" />
+
+---
+
+## 🚀 Deployment 
+The project is deployed on Vercel.
+Easily deploy your own version by importing the GitHub repo into Vercel.
+
+---
+
+## 👨‍💻 Author
+
+Youssef Assal
+
+🌐 Live Demo: https://youssef-assal-netflix.vercel.app/
+
+📌 GitHub Profile: https://github.com/youssefassal
+
+📌 LinkedIn Profile: www.linkedin.com/in/yousef-assal
